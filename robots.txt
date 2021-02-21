@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://mateusz.baczek1998.gitlab.io/homepage/sitemap.xml
