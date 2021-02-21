@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://mateusz.baczek1998.gitlab.io/homepage/sitemap.xml
+Sitemap: https://wint3rmute.github.io/sitemap.xml
