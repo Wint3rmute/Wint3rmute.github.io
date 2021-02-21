@@ -11,7 +11,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wint3rmute.github.io/about/</guid>
-      <description>Cotam </description>
+      <description>TL;DR Work-related interests:  Currently designing a commercial cubesat platform at SatRevolution Playing around with UAVs - MavLink, ArduPilot &amp;amp; DroneKit Vice president of the Academic Aviation Club Writing automation &amp;amp; testing scripts mainly in Python &amp;amp; Bash Extensive Linux knowledge (long time power user, ricing enthusiast) Solid understanding of C++ and low-level, planning to learn Rust Web services and web apps with Flask and Django  Other interests:  Hard sci-fi Lots of music, weird sounds Random philosophical ideas   UAVs Since 2019, I&amp;rsquo;ve been rolling with the Academic Aviation Club - a student research circle from my uni, dedicated to developing autonomous airplanes and drones.</description>
+    </item>
+    
+    <item>
+      <title>About me, but not about programming</title>
+      <link>https://wint3rmute.github.io/more_about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wint3rmute.github.io/more_about/</guid>
+      <description>Music I&amp;rsquo;ve been through a music school, learning piano for 6 years (also boosting my typing speed, which came in handy later). I spend most of my time with music, exploring interesting genres and artists.
+Artists I love:
+ Kate Bush Son Lux Leonard Cohen Peter Gabriel  Artists I really really like:
+ The Cure Depeche Mode Vulfpeck Yazoo The Punch Brothers  Honorable mentions:
+ Bryan Ferry Radiohead 21 Pilots  Books  Anything by Jacek Dukaj Brave New World Neuromancer Simulacra and Simulation 1984 His Master&amp;rsquo;s Voice The End of Faith The Screwtape Letters  Movies/shows:  Evangelion Blade Runner Westworld Serial Experiments Lain Donnie Darko Ghost In The Shell  </description>
     </item>
     
   </channel>
